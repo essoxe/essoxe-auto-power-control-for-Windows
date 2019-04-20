@@ -1,0 +1,28 @@
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\bin\Debug\AutoPowerOff.exe.config
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\bin\Debug\AutoPowerOff.exe
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\bin\Debug\AutoPowerOff.pdb
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff.csprojResolveAssemblyReference.cache
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\obj\Debug\MainWindow.g.cs
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\obj\Debug\App.g.cs
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff_MarkupCompile.cache
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff_MarkupCompile.lref
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\obj\Debug\MainWindow.baml
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff.g.resources
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff.Properties.Resources.resources
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff.csproj.GenerateResource.Cache
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff.exe
+C:\Users\001\Desktop\AutoPowerOff\AutoPowerOff\obj\Debug\AutoPowerOff.pdb
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\bin\Debug\AutoPowerOff.exe.config
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\bin\Debug\AutoPowerOff.exe
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\bin\Debug\AutoPowerOff.pdb
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\obj\Debug\AutoPowerOff.csprojResolveAssemblyReference.cache
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\obj\Debug\MainWindow.g.cs
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\obj\Debug\App.g.cs
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\obj\Debug\AutoPowerOff_MarkupCompile.cache
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\obj\Debug\AutoPowerOff_MarkupCompile.lref
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\obj\Debug\MainWindow.baml
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\obj\Debug\AutoPowerOff.g.resources
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\obj\Debug\AutoPowerOff.Properties.Resources.resources
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\obj\Debug\AutoPowerOff.csproj.GenerateResource.Cache
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\obj\Debug\AutoPowerOff.exe
+C:\Users\001\Desktop\Новая папка (2)\ProjectVS2017\AutoPowerOff\obj\Debug\AutoPowerOff.pdb
