@@ -5,4 +5,4 @@
   <p><b>Important !</b></p>
   If this app installed from "AutoPowerOff.exe" - it has autoload after system startup and 1 minute for entering password. When you first start you must change the password ! 
   To do this, enter "821491" in the upper field and enter your password in the field that appears. To confirm the change, click the "Изменить" (Edit) button. You can check the new password by entering it in the upper field and clicking the "Проверить пароль" (Check Password) button.
-  <p>Project C# WPF</p>
+  <p><i>Project C# WPF</i></p>
